@@ -1,17 +1,18 @@
-# 🚀 Modern Business Landing Page
-> **Time-to-Market Challenge:** Design & Development in < 60 mins.
+# 🚀 Task 1: Responsive Landing Page
+> **Level 1 - Frontend Foundations**
 
-### 🔗 Project Links
-- **GitHub Repository:** [Lien GitHub](https://github.com/Michel-DJREKE/landing_page_Task1/)
-- 
+A professional, high-conversion landing page built with a mobile-first approach. This project demonstrates the ability to translate a vision into a functional, responsive interface in record time.
 
+### 🔗 Project Resources
+- **GitHub Repository:** [View Code](https://github.com/Michel-DJREKE/landing_page_Task1.git)
+
+### 🎯 Objectives Achieved
+- **Semantic HTML5:** Full use of `<nav>`, `<header>`, `<section>`, and `<footer>` for SEO and accessibility (A11y).
+- **Modern Layout:** Implementation of **CSS Flexbox** and **Grid** for a robust structural foundation.
+- **Mobile-First Responsiveness:** Seamless adaptation across mobile, tablet, and desktop using advanced Media Queries.
+- **Interactive UX:** Integration of smooth scrolling and subtle reveal animations for a premium feel.
 
 ### 🛠 Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Responsive](https://img.shields.io/badge/Responsive-Mobile_First-green)
-
-### 📈 Key Achievements
-- **Execution:** Delivered a fully functional, aesthetic landing page under extreme time constraints.
-- **Design System:** Implementation of **Poppins** typography and a professional grid system.
-- **Performance:** 100/100 Lighthouse score (SEO & Accessibility).
+- **HTML5 / CSS3**
+- **Vanilla JavaScript** (Navigation & Scroll effects)
+- **Poppins Typography** (Custom Design System)
